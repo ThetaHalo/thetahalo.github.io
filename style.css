@@ -1,0 +1,8 @@
+body {
+    --background-color: #202021;
+    --surface: #1e1e1f;
+    --surface2: #29292b;
+    --color: #e5e5e5;
+
+background-color: var(--background-color);
+    color: var(--color);
