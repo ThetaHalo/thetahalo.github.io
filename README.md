@@ -1,1 +1,1 @@
-# Welcome to theta tries to figure out how tf this works
+redirect to me.epstheta.xyz
